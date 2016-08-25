@@ -1,0 +1,28 @@
+img {
+	width:100%;
+
+}
+
+nav {
+	height: 100px;
+	width:100%;
+	background-color:#EEBB44;
+	position: fixed;
+    
+}
+
+
+main {
+	padding-top: 150px;
+}
+
+.card {
+	padding-bottom: 50px;
+    
+}
+
+
+.cardtext {
+	padding-left: 30px;
+	padding-top: 20px;
+}
